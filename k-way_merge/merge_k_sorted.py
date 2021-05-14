@@ -12,7 +12,7 @@ def merge_k_sorted_arrays(arr_lst):
         top,pos= heapq.heappop(he)
         x,y=pos
         sortedFinal.append(top)
-        if y+1<len(arr_lst[x]):
+        if y+1<n:
             heapq.heappush(he,(arr_lst[x][y+1],(x,y+1)))
     return sortedFinal  
 
