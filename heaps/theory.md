@@ -4,7 +4,7 @@ theory.md
 
 ## This file contains relevant theorertical information related to heaps and doubts in case we have them.
 
-
+https://practice.geeksforgeeks.org/batch/ppc-1/track/ppc-heap/article/MjM3OA%3D%3D
 
 
 ### questions
